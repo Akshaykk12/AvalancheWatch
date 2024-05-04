@@ -23,6 +23,7 @@ pip install -r requirements.txt
 ## Results
 
 The revised algorithm shows improved performance over the previous version, particularly in areas with varying snow conditions. The number of false positives is significantly reduced, leading to more accurate avalanche detection results.
+
 ![](https://github.com/Akshaykk12/AvalancheWatch/blob/main/Images/final_avalanche_prone_map.png)
 
 ## License
