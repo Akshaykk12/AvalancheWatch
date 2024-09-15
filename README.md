@@ -1,4 +1,5 @@
 ﻿# AvalancheWatch
+![](https://github.com/Akshaykk12/AvalancheWatch/blob/main/Images/AvaWatch%20Banner.png)
 
 This repository is an unofficial implementation of Avalanche Detection paper [Synthetic Aperture Radar (SAR) Monitoring of Avalanche Activity: An Automated Detection Scheme](https://www.researchgate.net/publication/317345580_Synthetic_Aperture_Radar_SAR_Monitoring_of_Avalanche_Activity_An_Automated_Detection_Scheme) by H. Vickers, M. Eckerstorfer, E. Malnes, and A. Doulgeris. The code was executed to reproduce the results described in the paper.
 
